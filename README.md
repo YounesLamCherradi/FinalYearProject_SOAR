@@ -1,3 +1,28 @@
+<div align="center">
+
+# AI-ASSISTED SOAR PLATFORM
+
+### SECURITY ORCHESTRATION, AUTOMATION & RESPONSE
+
+**END-OF-STUDY PROJECT · DXC TECHNOLOGY MOROCCO**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=19&amp;duration=3500&amp;pause=1100&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Connecting+Detection+with+Response;AI-Assisted+Triage+and+Security+Automation;Threat+Intelligence+%7C+Orchestration+%7C+Incident+Response" alt="AI-assisted security orchestration and response" width="700" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SECURITY_AUTOMATION-7C3AED?style=for-the-badge" alt="Security automation" />
+<img src="https://img.shields.io/badge/AI_ASSISTED_TRIAGE-7C3AED?style=for-the-badge" alt="AI-assisted triage" />
+<img src="https://img.shields.io/badge/SOC_WORKFLOWS-7C3AED?style=for-the-badge" alt="SOC workflows" />
+
+<br/>
+<br/>
+
+[**WATCH THE FULL DEMONSTRATION**](https://www.youtube.com/watch?v=-YEg57C7JsY)
+
+</div>
+
+---
+
 ![SOAR detection-to-response pipeline](./assets/title.png)
 
 
@@ -101,3 +126,18 @@ Mean time to respond (MTTR) was tracked across all three modules against a manua
 The platform ships with simulator scripts (not included in this repo) that generate realistic, multi-stage attack campaigns against each module — multi-vector web attacks from several attacker IPs, a mixed batch of phishing and legitimate emails using real-but-defanged malicious indicators, and brute-force/credential-attack campaigns against Active Directory — to demonstrate the full detect → correlate → analyze → enrich → respond → document loop without requiring a live attacker.
 
 A full walkthrough of the platform in action is available here: [Demo video](https://www.youtube.com/watch?v=-YEg57C7JsY)
+
+
+---
+
+<div align="center">
+
+### AI-ASSISTED SOAR PLATFORM
+
+*Detection · Analysis · Enrichment · Response*
+
+<a href="https://www.youtube.com/watch?v=-YEg57C7JsY">
+  <img src="https://img.shields.io/badge/WATCH_PROJECT_DEMO-7C3AED?style=for-the-badge" alt="Watch the full project demonstration" />
+</a>
+
+</div>
